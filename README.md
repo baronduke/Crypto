@@ -1,6 +1,5 @@
 # Crypto
-Univers de la crypto
-
+Univers de la crypto.
 Un univers passionnant que la crypto.
 
 Il va falloir être vif et innové.
